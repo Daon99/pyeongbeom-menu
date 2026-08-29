@@ -2,7 +2,8 @@
 
 QR 스캔용 메뉴판 웹페이지.
 
-- 주소: https://daon99.github.io/pyeongbeom-menu/
+- 주소: https://pyeongbeom.co.kr (가비아 등록, GitHub Pages 연결)
+- 이전 주소 https://daon99.github.io/pyeongbeom-menu/ 는 새 도메인으로 자동 이동
 - 원본: `평범 기본 메뉴판 드라이브 업로드 본.pdf` (6페이지 인쇄용)
 
 ## 구성
